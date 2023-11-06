@@ -30,7 +30,7 @@ Ekosistem ini dibuat pada platform Cloudera yang dijalankan pada Virtual Box.
   ```
 - Masuk ke Hive
   ```
-  Hive
+  hive
   ```
 - Cek data yang terdapat pada Hive
   ```
