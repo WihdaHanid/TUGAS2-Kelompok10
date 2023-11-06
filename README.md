@@ -6,7 +6,7 @@ Ekosistem ini dibuat pada platform Cloudera yang dijalankan pada Virtual Box.
   ```
   mysql -u root -pcloudera
   ```
-- Melihat dataase dan tabel yang ada di SQL
+- Melihat database dan tabel yang ada di SQL
   ```
   show databases
   use retail_db
@@ -14,7 +14,7 @@ Ekosistem ini dibuat pada platform Cloudera yang dijalankan pada Virtual Box.
   ```
 - Melihat isi tabel
   ```
-  select * from categories;
+  select * from categories
   ```
 - Melakukan import tabel ke dalam Sqoop
   ```
